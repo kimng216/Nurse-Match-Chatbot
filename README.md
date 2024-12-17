@@ -15,7 +15,6 @@ This project aims to simplify interactions by providing quick, intuitive answers
 ## Setup  
 1. Clone this repository:  
    git clone https://github.com/kimng216/Nurse-Match-Chatbot.git
-   
    cd Nurse-Match-Chatbot
 3. Install the required dependencies:  
    pip install -r requirements.txt
