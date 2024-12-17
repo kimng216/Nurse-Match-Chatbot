@@ -15,13 +15,14 @@ This project aims to simplify interactions by providing quick, intuitive answers
 ## Setup  
 1. Clone this repository:  
    git clone https://github.com/kimng216/Nurse-Match-Chatbot.git
+   
    cd Nurse-Match-Chatbot
-2. Install the required dependencies:  
+3. Install the required dependencies:  
    pip install -r requirements.txt
-3. Add your OpenAI credentials in a `.env` file:  
+4. Add your OpenAI credentials in a `.env` file:  
    ASSISTANT_ID=<Your OpenAI Assistant ID>
    OPENAI_API_KEY=<Your OpenAI API Key>
-4. Run the chatbot:  
+5. Run the chatbot:  
    python chatbotCode.py
 
 ## Project Structure  
